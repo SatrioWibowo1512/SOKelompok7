@@ -1,0 +1,9 @@
+{
+  "label": "DATA SIMULASI buatan penyusun untuk menguji program. BUKAN data resmi kelas.",
+  "resources": ["LockStok", "LockBayar", "SlotKurir"],
+  "processes": ["C1", "C2", "C3"],
+  "total": [1, 1, 2],
+  "allocation": [[1, 0, 0], [0, 0, 1], [0, 0, 0]],
+  "max":        [[1, 1, 1], [0, 1, 2], [1, 1, 1]],
+  "available": [0, 1, 1]
+}
